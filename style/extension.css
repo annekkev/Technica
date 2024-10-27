@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-family: "Comic Sans MS", "Comic Sans", "Helvetica", "Times New Roman";
+}
+
+/* .class-for-index {
+    color: black;
+} */
+
+.class-for-page {
+    color: black;
+    font-weight: 500;
+}
