@@ -1,26 +1,18 @@
 <html>
 
 <div style="width: 450px;">
-  <form action="/why-here-page" method="post">
+  <form>
     <p>
       <label for="why-here" style="font-size: large;">Why are you here?</label>
       <br><br>
-      <input type="button" name="reason" id="call" value="I got a phone call.">
+      <a href="call.html"><input type="button" name="reason" id="call" value="I got a phone call."></a>
       <br><br>
       <input type="button" name="reason" id="email" value="I got an Email.">
       <br><br>
-      <a href="../safe.html"><input type="button" name="reason" id="want" value="I just want to check my account."></a>
+      <a href="../terminate/safe.html"><input type="button" name="reason" id="want"
+          value="I just want to check my account."></a>
     </p>
   </form>
 </div>
 
 </html>
-
-<!-- <select onchange="
-    if (this.value.startsWith('/')) {
-      window.location = this.value
-    }
-  ">
-    <option value="/why-here-page">Login</option>
-    <option value="/signup">Signup</option>
-</select> -->
