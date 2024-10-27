@@ -6,11 +6,14 @@ h1 {
     font-family: "Comic Sans MS", "Comic Sans", "Helvetica", "Times New Roman";
 }
 
-/* .class-for-index {
+.class-for-index {
     color: black;
-} */
+    font-weight: 700;
+    font-family: "Comic Sans MS", "Comic Sans", "Helvetica", "Times New Roman";
+}
 
 .class-for-page {
     color: black;
     font-weight: 500;
+    font-family: "Comic Sans MS", "Comic Sans", "Helvetica", "Times New Roman";
 }
