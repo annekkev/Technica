@@ -32,3 +32,11 @@ input {
     font-weight: 700;
     font-family: "Comic Sans MS", "Comic Sans", "Helvetica", "Times New Roman";
 }
+
+div {
+    border-radius: 25px;
+    background: #dfa32b;
+    padding: 20px;
+    width: 200px;
+    height: fit-content;
+}
