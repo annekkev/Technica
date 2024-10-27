@@ -1,8 +1,23 @@
 body {
-    background-color: lightblue;
+    /* background-color: lightblue; */
+    background-color: white;
 }
 
 h1 {
+    font-family: "Comic Sans MS", "Comic Sans", "Helvetica", "Times New Roman";
+}
+
+p {
+    font-family: "Comic Sans MS", "Comic Sans", "Helvetica", "Times New Roman";
+}
+
+li {
+    font-family: "Comic Sans MS", "Comic Sans", "Helvetica", "Times New Roman";
+}
+
+input {
+    color: black;
+    font-weight: 500;
     font-family: "Comic Sans MS", "Comic Sans", "Helvetica", "Times New Roman";
 }
 
@@ -14,6 +29,6 @@ h1 {
 
 .class-for-page {
     color: black;
-    font-weight: 500;
+    font-weight: 700;
     font-family: "Comic Sans MS", "Comic Sans", "Helvetica", "Times New Roman";
 }
