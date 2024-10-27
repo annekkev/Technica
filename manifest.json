@@ -5,6 +5,6 @@
     "version": "1.0",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "fish_fry.png"
+        "default_icon": "logo.png"
     }
 }
