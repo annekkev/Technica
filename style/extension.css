@@ -34,8 +34,9 @@ input {
 }
 
 div {
+    width: 500px;
     border-radius: 25px;
-    background: #dfa32b;
+    background: #fc7a2d;
     padding: 20px;
     width: 200px;
     height: fit-content;
